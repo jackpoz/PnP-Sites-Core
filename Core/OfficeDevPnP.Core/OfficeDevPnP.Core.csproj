@@ -683,6 +683,7 @@
     <Compile Include="Framework\Provisioning\ObjectHandlers\TokenDefinitions\FileUniqueIdToken.cs" />
     <Compile Include="Framework\Provisioning\ObjectHandlers\TokenDefinitions\RoleDefinitionIdToken.cs" />
     <Compile Include="Framework\Provisioning\ObjectHandlers\Utilities\FieldUpdateValue.cs" />
+    <Compile Include="GetCoreResources.cs" />
     <Compile Include="Utilities\Graph\GraphHelper.cs" />
     <Compile Include="Framework\Provisioning\ObjectHandlers\Utilities\ListItemUtilities.cs" />
     <Compile Include="Framework\Provisioning\ObjectHandlers\Utilities\ConnectorFileHelper.cs" />
